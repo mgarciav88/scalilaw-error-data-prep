@@ -1,11 +1,11 @@
 # scalilaw-error-data-prep
 
 WandB/HF extraction pipeline that produces clean, versioned, per-step training-loss
-datasets for Pythia and PolyPythias, for a paper on autocorrelation and
-pseudo-replication in checkpoint-based scaling laws.
+datasets for Pythia and PolyPythias.
 
-**Scope.** This repo's only job is turning EleutherAI's WandB logs into a tidy,
-provenance-tracked dataset. 
+**Scope.** This repo's only job is turning EleutherAI's public WandB logs into a tidy,
+provenance-tracked dataset. It contains code and a run registry only; the data itself
+is not included and is produced locally by the commands below.
 
 ## Setup
 

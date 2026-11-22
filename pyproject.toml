@@ -3,7 +3,7 @@ name = "scalilaw-data"
 version = "0.1.0"
 description = "WandB extraction pipeline producing clean, versioned Pythia/PolyPythias training-loss datasets for scaling-law error analysis."
 authors = [
-    { name = "mgarciav88", email = "miguelgarciavera88@gmail.com" }
+    { name = "mgarciav88", email = "38166781+mgarciav88@users.noreply.github.com" }
 ]
 requires-python = ">=3.13"
 dependencies = [
